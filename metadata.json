@@ -1,0 +1,8 @@
+{
+  "name": "NBKR Nexus",
+  "description": "Enterprise Smart Campus, Student Intelligence & Placement Platform for NBKR Institute of Science & Technology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
